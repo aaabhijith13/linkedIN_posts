@@ -1,4 +1,1 @@
-# linkedIN_posts
-I am trying to write, learn and read more. This will contain posts + code from my posts on LinkedIn
-
-Will update this as I know more. 
+This simple word count example demonstrates Spark’s core strengths: lazy evaluation, DAG-based execution, in-memory processing, and fault tolerance through lineage — all without writing intermediate data to disk.
