@@ -41,6 +41,6 @@ MapReduce: A customizable framework for parallel data processing across nodes. U
 2. Designed for high fault tolerance and data locality
 3. Forms the backbone of many modern Big Data architectures
 
-![Hadoop Architecture](./images/post1_b.jpg)
+![Hadoop Architecture](../images/post1_b.jpg)
 
 In the next part of this series, we will explore HDFS in greater detail and understand how distributed storage is implemented at scale.
