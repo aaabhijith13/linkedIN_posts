@@ -28,6 +28,7 @@ MapReduce: A customizable framework for parallel data processing across nodes. U
  a. DataNodes - Machine where files/data are stored and processed. Communicates to main node by sending heartbeat signals. 
  b. NodeManager: Executes tasks and reports resource usage to the ResourceManager.
 
+(../images/post1_a)
 ### Big Picture Flow 
 1. Data is stored in HDFS (split across machines).
 2. A job is submitted.
@@ -39,5 +40,7 @@ MapReduce: A customizable framework for parallel data processing across nodes. U
 1. Enables horizontal scalability using commodity hardware
 2. Designed for high fault tolerance and data locality
 3. Forms the backbone of many modern Big Data architectures
+
+(./images/post1_b)
 
 In the next part of this series, we will explore HDFS in greater detail and understand how distributed storage is implemented at scale.
