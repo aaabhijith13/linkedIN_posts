@@ -60,3 +60,5 @@ Not well-suited for:
 4. Once a file is written to HDFS, it cannot be modified; it can only be appended or rewritten entirely.
 
 Data below shows Data Replication and working of HDFS architecture.
+
+![HDFS architecture and NameNode](../images/post2)
