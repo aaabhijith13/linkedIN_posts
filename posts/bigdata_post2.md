@@ -61,4 +61,4 @@ Not well-suited for:
 
 Data below shows Data Replication and working of HDFS architecture.
 
-![HDFS architecture and NameNode](../images/post2)
+![HDFS architecture and NameNode](../images/post2.jpg)
